@@ -1,0 +1,96 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.sidenav-trigger{
+    background-color: #215472; 
+    height: 100px;
+    position: relative;
+}
+
+.logo{
+    height: 80px;
+    left: 1em;
+    position: relative;
+    top: 0.3em;
+}
+
+.menumed{
+    position: relative;
+    right: 1em;
+    top: 20px;
+}
+
+.frstimg{
+    width: 100%;
+}
+
+.intrd{
+    position: relative;
+    top: 2em;
+}
+
+.quotes{
+    color: gray;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+
+.quoteimg{
+    margin-bottom: 4rem;
+}
+
+.rgstr, .top{
+    margin-bottom: 3.5em;
+    position: relative;
+    top: 2em;
+}
+
+.mrgn{
+    padding-bottom: 2em;
+}
+
+.btn{
+    background-color: #23bda8;
+}
+
+.bnfc{
+    left: 40px;
+    position: relative;
+}
+
+.smlltxt{
+    font-size: 12px;
+}
+
+.tstmn{
+    position: relative;
+    top: 2em;
+}
+
+.dwnsct{
+    padding: 2em 0;
+}
+
+.dwnlg{
+    height: auto;
+    width: 75%;
+}
+
+.prcss{
+    margin-bottom: 2em;
+    position: relative;
+    top: 2em;
+}
+
+.page-footer{
+    background-color: #215472;
+}
+
+
+#215472
+#23bda8;
